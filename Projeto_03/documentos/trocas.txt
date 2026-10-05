@@ -1,0 +1,8 @@
+Troca por preferência
+Neste cenário fictício, a loja aceita pedidos de troca por cor ou modelo em até 15 dias corridos após o recebimento. O produto deve estar sem sinais de uso e acompanhado de seus acessórios e da nota fiscal.
+
+Como solicitar
+O cliente deve informar o número do pedido, o produto e o motivo da troca ao atendimento. A equipe fornece as instruções de envio. A troca depende da disponibilidade do produto escolhido; o atendimento confirma essa disponibilidade.
+
+Produto diferente do pedido
+Se o cliente receber um item diferente do comprado, deve enviar ao atendimento uma foto do produto e o número do pedido. A loja assume o frete de retorno nesse caso.

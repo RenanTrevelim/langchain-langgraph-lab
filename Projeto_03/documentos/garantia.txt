@@ -1,0 +1,8 @@
+Cobertura do exercício
+Neste cenário fictício, os notebooks possuem cobertura de 12 meses a partir do recebimento para defeitos de fabricação. Danos por quedas, contato com líquidos e alterações não autorizadas não fazem parte dessa cobertura simulada.
+
+Como solicitar atendimento
+O cliente deve informar o número do pedido, o modelo do notebook e uma descrição do defeito. Deve também apresentar a nota fiscal. O atendimento encaminha as orientações para avaliação técnica.
+
+Avaliação
+A análise técnica ocorre em até 10 dias úteis após o equipamento chegar à assistência. O atendimento informa o resultado e os próximos passos após essa análise. Não é possível confirmar a cobertura de um caso individual sem a avaliação.

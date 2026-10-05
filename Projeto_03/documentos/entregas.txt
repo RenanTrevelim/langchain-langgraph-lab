@@ -1,0 +1,8 @@
+Prazo de entrega
+Neste cenário, o prazo estimado é de 3 a 7 dias úteis após a confirmação do pagamento. Sábados, domingos e feriados não entram na contagem. A estimativa específica de cada pedido aparece na confirmação da compra.
+
+Rastreamento
+Após a postagem, a loja envia o código de rastreamento por e-mail. A atualização inicial pode levar até 24 horas.
+
+Atraso na entrega
+Se o prazo estimado terminar sem a entrega, o cliente deve conferir o rastreamento e falar com o atendimento, informando o número do pedido. A equipe verifica a situação com a transportadora e retorna em até 2 dias úteis. Esse prazo é para o retorno do atendimento, não para a entrega.
