@@ -1,0 +1,24 @@
+Código: NOTE001
+Produto: Notebook Estudo
+Descrição: Notebook para estudos, navegação e programação básica.
+Preço: 2000.00
+
+Código: NOTE002
+Produto: Notebook Desempenho
+Descrição: Notebook para programação, multitarefa e edição de imagens.
+Preço: 4500.00
+
+Código: MOUSE001
+Produto: Mouse sem fio
+Descrição: Mouse sem fio para estudos e trabalho no dia a dia.
+Preço: 80.00
+
+Código: TECLADO001
+Produto: Teclado USB
+Descrição: Teclado com conexão USB para computadores e notebooks.
+Preço: 120.00
+
+Código: MONITOR001
+Produto: Monitor 24 polegadas
+Descrição: Monitor para estudos, trabalho e uso de uma segunda tela.
+Preço: 900.00
