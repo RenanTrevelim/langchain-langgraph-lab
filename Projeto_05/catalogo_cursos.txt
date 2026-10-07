@@ -1,0 +1,41 @@
+Código: PY01
+Curso: Fundamentos de Python
+Área: Programação
+Descrição: Variáveis, condicionais, laços, listas e funções.
+Carga horária: 6 horas
+Pré-requisitos: Nenhum.
+
+Código: PD01
+Curso: Análise de Dados com Pandas
+Área: Análise de dados
+Descrição: Leitura de arquivos, filtros, agrupamentos e tratamento de dados ausentes.
+Carga horária: 8 horas
+Pré-requisitos: Conhecimentos básicos de Python.
+
+Código: VD01
+Curso: Visualização de Dados
+Área: Análise de dados
+Descrição: Construção e interpretação de gráficos com Matplotlib.
+Carga horária: 4 horas
+Pré-requisitos: Conhecimentos básicos de Python.
+
+Código: SQL01
+Curso: Introdução ao SQL
+Área: Banco de dados
+Descrição: Consultas com SELECT, filtros, agrupamentos e junções.
+Carga horária: 6 horas
+Pré-requisitos: Nenhum.
+
+Código: EST01
+Curso: Estatística Descritiva
+Área: Estatística
+Descrição: Média, mediana, dispersão e interpretação de distribuições.
+Carga horária: 5 horas
+Pré-requisitos: Nenhum.
+
+Código: ML01
+Curso: Introdução ao Machine Learning
+Área: Machine Learning
+Descrição: Treino e teste, classificação, regressão e avaliação de modelos.
+Carga horária: 10 horas
+Pré-requisitos: Conhecimentos de Pandas e estatística descritiva.
