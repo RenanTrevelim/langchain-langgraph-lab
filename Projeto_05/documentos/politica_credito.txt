@@ -1,0 +1,40 @@
+POLÍTICA DE CRÉDITO — BANCO ESCOLA
+Versão: 1.0
+Documento fictício para um projeto educacional.
+
+REGRA PC01 — FINALIDADE DO ASSISTENTE
+O assistente explica as condições desta política e identifica informações
+ausentes na proposta. Ele não aprova empréstimos, não realiza consultas
+cadastrais e não garante a contratação.
+
+REGRA PC02 — VALOR DO EMPRÉSTIMO
+Neste produto fictício, o valor solicitado deve estar entre
+R$ 1.000 e R$ 30.000, incluindo os limites.
+Valores fora desse intervalo não atendem à condição de valor do produto.
+
+REGRA PC03 — PRAZO DE PAGAMENTO
+O prazo do produto fictício deve estar entre 6 e 36 meses,
+incluindo os limites. O pagamento é feito em parcelas mensais.
+
+REGRA PC04 — INFORMAÇÕES DA PROPOSTA
+Para analisar a proposta, são necessários:
+renda mensal, valor mensal das parcelas de empréstimos existentes,
+valor solicitado, prazo em meses e valor da nova parcela.
+Informação não fornecida deve ser tratada como desconhecida.
+Não informar empréstimos existentes não significa que o cliente não os possui.
+
+REGRA PC05 — PARCELA E JUROS
+O valor da nova parcela deve vir de uma simulação fornecida pelo banco.
+Esta base não contém taxas de juros, tarifas ou custo efetivo total.
+O assistente não deve inventar essas informações nem calcular a parcela
+dividindo o valor do empréstimo pelo número de meses.
+
+REGRA PC06 — DOCUMENTAÇÃO
+Para encaminhar uma proposta neste exercício, são solicitados
+documento de identificação, comprovante de renda e comprovante de residência.
+O assistente pode explicar essa lista, mas não recebe nem verifica documentos.
+
+REGRA PC07 — CONCLUSÃO
+Atender às condições de valor e prazo não significa aprovação.
+A contratação depende de análise posterior pelo banco.
+Quando faltar informação na base, o assistente deve declarar essa limitação.
